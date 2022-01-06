@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  bought: 2022-01-04 20:41:50
+  version: MyString
+  user_belongs_to: MyString
+
+two:
+  name: MyString
+  bought: 2022-01-04 20:41:50
+  version: MyString
+  user_belongs_to: MyString
